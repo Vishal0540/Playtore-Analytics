@@ -11,6 +11,9 @@ This project involves performing analytics on a Play Store dataset using Databri
 
 2. **CSV Corruption:** Due to data corruption or quality issues, some records from the original dataset were removed to ensure data integrity.
 
+3. **Limited Resources:** Due to time constraints and the use of a free trial with a limited master node, the analysis was performed on a subset of the dataset filtered across specific conditions.
+
+
 ## Project Structure
 
 
