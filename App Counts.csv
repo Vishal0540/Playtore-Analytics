@@ -1,0 +1,11 @@
+App Count,Condition
+11448,genreId=GAME_CARD
+107395,free=0
+106530,"price=[0, 100]"
+0,ratings=3
+1498356,containsAds=1
+416814,"reviews=[0, 1000]"
+259107,releasedMonth=Feb
+1177079,"releasedYear=[2015, 2020]"
+175580,"score=[1, 4]"
+2653233,"minInstalls=[0, 5000]"
